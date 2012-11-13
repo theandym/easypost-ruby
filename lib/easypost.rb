@@ -1,5 +1,4 @@
 require 'typhoeus'
-require 'base64'
 require 'json'
 
 module EasyPost

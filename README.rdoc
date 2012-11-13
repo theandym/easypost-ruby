@@ -1,0 +1,14 @@
+= EasyPost Ruby bindings {<img src="https://gemnasium.com/stripe/stripe-ruby.png" alt="Dependency Status" />}[https://gemnasium.com/easypost/easypost-ruby]
+
+== Installation
+
+You don't need this source code unless you want to modify the gem. If
+you just want to use the EasyPost Ruby bindings, you should run:
+
+  gem install easypost
+
+== Requirements
+
+* Ruby 1.8.7 or above. (Other versions may work but are not supported)
+* typhoeus, json
+

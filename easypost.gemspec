@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'easypost'
-  s.version     = '1.0.2'
+  s.version     = '1.0.3'
   s.date        = '2012-11-13'
   s.summary     = 'EasyPost'
   s.description = 'Client library for accessing the EasyPost Shipping API via Ruby'
