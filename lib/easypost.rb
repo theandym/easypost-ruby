@@ -2,7 +2,7 @@ require 'typhoeus'
 require 'json'
 
 module EasyPost
-  @@api_key = "cueqNZUb3ldeWTNX7MU3Mel8UXtaAMUi"
+  @@api_key = "..."
   @@api_base = 'https://www.easypost.co/api/'
 
   def self.api_url(args={})
