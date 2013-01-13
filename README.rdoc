@@ -14,5 +14,5 @@ you just want to use the EasyPost Ruby bindings, you should run:
 
 == Documentation
 
-Please see https://www.easypost.co/docs for the most up-to-date
+Please see http://geteasypost.com/docs for the most up-to-date
 documentation.

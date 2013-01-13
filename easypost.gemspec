@@ -13,7 +13,7 @@ Gem::Specification.new do |s|
                     "lib/easypost/errors/authentication_error.rb"
                   ]
   s.require_path = 'lib'
-  s.homepage    = 'https://www.easypost.co/docs'
+  s.homepage    = 'https://geteasypost.com/docs'
   s.add_dependency('typhoeus')
   s.add_dependency('json')
 end
