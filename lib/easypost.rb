@@ -3,7 +3,7 @@ require 'json'
 
 module EasyPost
   @@api_key = "..."
-  @@api_base = 'http://www.easypostapi.com/api/'
+  @@api_base = 'https://www.geteasypost.com/api/'
 
   def self.api_url(args={})
     raise ArgumentError unless args.keys.eql?([:type, :action])
