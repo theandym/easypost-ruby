@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name        = 'easypost'
-  s.version     = '1.0.4'
-  s.date        = '2012-11-13'
+  s.version     = '1.1.0'
+  s.date        = '2013-01-28'
   s.summary     = 'EasyPost'
   s.description = 'Client library for accessing the EasyPost Shipping API via Ruby'
   s.authors     = ["Jon Calhoun"]
@@ -13,7 +13,7 @@ Gem::Specification.new do |s|
                     "lib/easypost/errors/authentication_error.rb"
                   ]
   s.require_path = 'lib'
-  s.homepage    = 'https://geteasypost.com/docs'
+  s.homepage    = 'https://www.geteasypost.com/docs'
   s.add_dependency('typhoeus')
   s.add_dependency('json')
 end
