@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'easypost'
-  s.version     = '1.1.0'
+  s.version     = '1.1.1'
   s.date        = '2013-01-28'
   s.summary     = 'EasyPost'
   s.description = 'Client library for accessing the EasyPost Shipping API via Ruby'
@@ -14,6 +14,6 @@ Gem::Specification.new do |s|
                   ]
   s.require_path = 'lib'
   s.homepage    = 'https://www.geteasypost.com/docs'
-  s.add_dependency('typhoeus')
+  s.add_dependency('typhoeus', ["~> 0.5.3"])
   s.add_dependency('json')
 end
