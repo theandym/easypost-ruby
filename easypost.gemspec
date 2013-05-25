@@ -14,6 +14,6 @@ Gem::Specification.new do |s|
                   ]
   s.require_path = 'lib'
   s.homepage    = 'https://www.geteasypost.com/docs'
-  s.add_dependency('typhoeus', ["~> 0.5.3"])
+  s.add_dependency('typhoeus', ["~> 0.6.3"])
   s.add_dependency('json')
 end
